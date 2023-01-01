@@ -33,7 +33,7 @@ This project was developed with the following technology:
 
 This project was made to train the main fundamentals of ReactJS.
 
-Live preview: link aqui
+Live preview: https://movie-land-react.netlify.app/
 
 ## :memo: Licença
 
